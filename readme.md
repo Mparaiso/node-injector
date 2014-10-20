@@ -7,6 +7,6 @@ Only require objects you need,they'll be constructed lazily.
 
 ##SETUP
 
-npm install mpm.injector
+    npm install mpm.injector
 
 
