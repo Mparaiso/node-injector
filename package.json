@@ -1,0 +1,24 @@
+{
+  "name": "mpm.injector",
+  "version": "0.0.1",
+  "description": "dependency injector container",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Mparaiso/node-injector.git"
+  },
+  "keywords": [
+    "dependency",
+    "injector",
+    "injection",
+    "container"
+  ],
+  "author": "mparaiso <mparaiso@online.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mparaiso/node-injector/issues"
+  }
+}
